@@ -10,10 +10,11 @@ print(list_a)
 print(type(g_a))
 
 # print(next(g_a))
-# print(next(g_a))
-# print(next(g_a))
-# print(next(g_a))
-# print(next(g_a))
+print(next(g_a))
+print(next(g_a))
+print(next(g_a))
+print(next(g_a))
 
 for n in g_a:
-    print(n)
+    print('n:',n)
+
